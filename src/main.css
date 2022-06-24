@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+  }
+  body{
+    margin:0;
+    padding:0;
+    color: bisque;
+    background-color:#0f171e;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  /* .main-section{
+    display: grid;
+    width: 100vw;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-columns: repeat(4,300px);
+    gap: 1rem;
+    background-color :red;
+  } */
+ 
