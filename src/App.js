@@ -24,7 +24,7 @@ function App() {
       <Route path="/newreleases" element={<NewReleases/>}/>
       <Route path="/upcoming" element={<Upcoming/>}/>
       <Route path="/favourites" element={<Favourites/>}/>
-      <Route path="/moviedetails" element={<MovieDetails/>}/>
+      <Route path="/movie/:id" element={<MovieDetails/>}/>
       <Route  path="*" element={<PageNotFound/>}/>
       
 

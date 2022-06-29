@@ -25,6 +25,9 @@ export const Home = () => {
           <SideBar/>
           <div className="section-1">
          <MovieListing movies={movies}/>
+         
+         
+
          </div>
         </div>
       </div>

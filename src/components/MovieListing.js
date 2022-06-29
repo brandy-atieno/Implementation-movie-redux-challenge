@@ -10,6 +10,7 @@ export const MovieListing = ({movies}) => {
     
     <div className="card-cointainer" >  
     {movies.map((movie)=>(<MovieCard key={movie.id} movie={movie}/>))}
+   
     </div>
   )
 }
