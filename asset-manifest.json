@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Implementation-movie-redux-challenge/static/css/main.82e1941d.css",
+    "main.js": "/Implementation-movie-redux-challenge/static/js/main.f88833e9.js",
+    "index.html": "/Implementation-movie-redux-challenge/index.html",
+    "main.82e1941d.css.map": "/Implementation-movie-redux-challenge/static/css/main.82e1941d.css.map",
+    "main.f88833e9.js.map": "/Implementation-movie-redux-challenge/static/js/main.f88833e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82e1941d.css",
+    "static/js/main.f88833e9.js"
+  ]
+}
